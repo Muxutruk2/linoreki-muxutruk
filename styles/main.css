@@ -1,9 +1,0 @@
-*{
-    font-family: "Roboto";
-}
-
-body{
-    margin: 0;
-    background-color: var(--color-5);
-    width: 100%;
-}
