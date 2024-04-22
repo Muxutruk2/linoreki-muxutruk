@@ -1,4 +1,4 @@
-.top-menu{
+.header{
     background-color: var(--color-2);
     margin: 0;
     height: 40px;
@@ -6,9 +6,18 @@
 
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
-.top-menu-title{
+.header-left{
+    background-color: red;
+    height: 40px;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-title{
     font-weight: bold;
     background-color: var(--color-3);
     padding: 5px;
@@ -16,13 +25,13 @@
     margin-left: 10px;
 }
 
-.top-menu-button-div{
+.header-button-div{
     margin: 5px;
     margin-left: 10px;
     height: 30px;
 }
 
-.top-menu-button{
+.header-button{
     font-weight: bold;
     font-size: 16px;
     height: 30px;
