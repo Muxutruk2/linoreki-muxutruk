@@ -87,22 +87,19 @@ p {
     text-align: center;
     text-decoration: none;
     border-radius: 0 0 10px 10px;
+    
 }
-.proyectos-lista canal  {
-    border: none;
+.canal  {
     display: block;
-    background-color: red;
+    background-color: #007bff;
     color: #fff;
     padding: 15px;
     text-align: center;
     text-decoration: none;
-    height: auto;
-    width: 255px;
     border-radius: 0 0 10px 10px;
-    cursor: pointer;
-    
+
 }
-.proyectos-lista canal:hover  {
+.canal:hover  {
     opacity: 0.5;
 }
 .proyectos-lista a:hover {
