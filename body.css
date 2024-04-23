@@ -95,7 +95,6 @@ p {
     border-radius: 0 0 10px 10px;
     
 }
-<<<<<<< HEAD
 .canal  {
     display: block;
     background-color: #007bff;
@@ -105,13 +104,6 @@ p {
     text-decoration: none;
     border-radius: 0 0 10px 10px;
 
-=======
-#youtube{
-    background-color: red;
-}
-.proyectos-lista canal:hover  {
-    opacity: 0.5;
->>>>>>> e886748a3bf47a752d1bd1318bd79b7e04247ba8
 }
 
 .proyectos-lista a:hover {
