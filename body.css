@@ -4,8 +4,12 @@ body {
     padding: 20px;
     background-color: #f9f9f9;
 }
-
+.top-menu{
+    border-radius: 10px;
+}
 header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     background-color: #007bff;
     color: #fff;
     padding: 20px 0;
@@ -13,6 +17,8 @@ header {
 }
 
 nav {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     background-color: #007bff;
     color: #fff;
     padding: 10px 0;
@@ -89,6 +95,7 @@ p {
     border-radius: 0 0 10px 10px;
     
 }
+<<<<<<< HEAD
 .canal  {
     display: block;
     background-color: #007bff;
@@ -98,6 +105,13 @@ p {
     text-decoration: none;
     border-radius: 0 0 10px 10px;
 
+=======
+#youtube{
+    background-color: red;
+}
+.proyectos-lista canal:hover  {
+    opacity: 0.5;
+>>>>>>> e886748a3bf47a752d1bd1318bd79b7e04247ba8
 }
 
 .proyectos-lista a:hover {
