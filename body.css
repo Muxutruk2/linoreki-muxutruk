@@ -88,19 +88,8 @@ p {
     text-decoration: none;
     border-radius: 0 0 10px 10px;
 }
-.proyectos-lista button  {
-    border: none;
-    display: block;
+#youtube{
     background-color: red;
-    color: #fff;
-    padding: 15px;
-    text-align: center;
-    text-decoration: none;
-    height: auto;
-    width: 255px;
-    border-radius: 0 0 10px 10px;
-    cursor: pointer;
-    
 }
 .proyectos-lista canal:hover  {
     opacity: 0.5;
